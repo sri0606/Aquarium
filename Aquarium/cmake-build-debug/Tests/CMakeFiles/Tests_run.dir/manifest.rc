@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/srira/OneDrive/Documents/CSE335/step4/Aquarium/cmake-build-debug/Tests/CMakeFiles/Tests_run.dir/embed.manifest"
